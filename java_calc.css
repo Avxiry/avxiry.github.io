@@ -1,0 +1,45 @@
+#results {
+         display:none;
+       }
+
+
+body {
+    background-color: #343a40;
+    color: #ffffff;
+	text-align: center;
+	max-width: 500px;
+	margin: auto;
+}
+
+.card {
+    background-color: #454d55;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.input-group-addon,
+.input-group-btn {
+    background-color: #6c757d;
+    color: #ffffff;
+    border: none;
+}
+
+.input-group-addon {
+    min-width: 3rem;
+}
+
+#results {
+    color: #ffffff;
+}
+
+#results input {
+    background-color: #6c757d;
+    color: #ffffff;
+    border: none;
+}
+
+.heading {
+    color: #ffc107;
+}
